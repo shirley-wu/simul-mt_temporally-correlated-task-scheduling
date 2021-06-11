@@ -1,8 +1,7 @@
 This repo contains codes for simultanous translation task for our paper *Temporally Correlated Task Scheduling for Sequence Learning* published on ICML 2021.
-Codes for stock price forecasting task are contained in the open source library [Qlib](https://github.com/microsoft/qlib).
-Codes for simultaneous translation are in `sim_mt/`, and codes for our method are in `ours/`.
+Codes for stock price forecasting task are at [https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TCTS](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TCTS).
 
-Our code is based on [fairseq](https://github.com/pytorch/fairseq/) v0.8.0; please install it by cloning and installing their github repo, or by
+Codes for simultaneous translation are in `sim_mt/`, and codes for our method are in `ours/`. Our code is based on [fairseq](https://github.com/pytorch/fairseq/) v0.8.0; please install it by cloning and installing their github repo, or by
 
 `pip install fairseq==v0.8.0`
 
